@@ -19,3 +19,5 @@ class MyTestFunction(unittest.TestCase):
 if __name__=="__main__":
     A = MyTestFunction()
     A.test_add()
+    print "hello"
+    print u"谢谢"
