@@ -4,6 +4,7 @@ import unittest
 import os
 import sys
 
+
 class MyTestFunction(unittest.TestCase):
     def setUp(self):
         print "begin"
@@ -14,3 +15,7 @@ class MyTestFunction(unittest.TestCase):
     def test_add(self):
         print "add"
 
+
+if __name__=="__main__":
+    A = MyTestFunction()
+    A.test_add()
