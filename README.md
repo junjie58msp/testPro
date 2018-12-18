@@ -2,6 +2,5 @@
 this pro is related with github
 login: 412512621@qq.com 
 
-什么东西啊？我才不管你呢？
-我在上面修改了
+什么东西啊？你才不管我呢？
 什么玩意呀？
