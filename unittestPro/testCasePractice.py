@@ -21,3 +21,4 @@ if __name__=="__main__":
     A.test_add()
     print "hello"
     print u"谢谢"
+    print "xiexie"
